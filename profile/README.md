@@ -1,26 +1,38 @@
+<div align="center">
+
 # kizz
 
-Anti-enterprise product studio. We build sharp, opinionated tools for builders.
+**Anti-enterprise product studio.**
+We build sharp, opinionated tools for builders.
 
-**No investors. No committees. Just code.**
+No investors. No committees. Just code.
 
-## Products
+[![Website](https://img.shields.io/badge/kizz.me-050505?style=flat-square&logo=google-chrome&logoColor=EFFF3D)](https://kizz.me)
+[![X](https://img.shields.io/badge/@my__kizzme-050505?style=flat-square&logo=x&logoColor=white)](https://x.com/my_kizzme)
+[![Reddit](https://img.shields.io/badge/u/my__kizzme-050505?style=flat-square&logo=reddit&logoColor=white)](https://reddit.com/u/my_kizzme)
 
-**[Meld](https://github.com/kizz-tech/meld)** — Superpersonalized AI agent that shares a knowledge base with you. Local-first, open source, works with Obsidian.
+---
 
-**[Loudmouth](https://loudmouth.kizz.me)** — AI content workflow. Raw ideas → publish-ready posts without losing your voice.
+</div>
 
-**[RivalRadar](https://rivalradar.kizz.me)** — AI competitive digest. Know what your competitors did this week.
+### Products
 
-**[Baron](https://getbaron.ru)** — P2P learning platform. Currency is time, not money.
+| | Product | What it does |
+|---|---------|-------------|
+| **[Meld](https://github.com/kizz-tech/meld)** | AI Knowledge Agent | Superpersonalized AI that shares a knowledge base with you. Local-first, open source, Obsidian-native. |
+| **[Loudmouth](https://loudmouth.kizz.me)** | AI Content Workflow | Raw ideas → publish-ready posts for Telegram, X, Reddit. Your voice, not AI slop. |
+| **[RivalRadar](https://rivalradar.kizz.me)** | Competitive Intelligence | AI-powered weekly digest. Know what your competitors did — and what it means. |
+| **[Baron](https://baron.kizz.me)** | P2P Learning | Skill exchange platform. Currency is time, not money. |
 
-## Principles
+### Principles
 
-- Code > Slides
-- Speed is safety
-- Ship > Plan
-- Opinionated > Configurable
+```
+Code > Slides        Speed is safety
+Ship > Plan          Opinionated > Configurable
+```
 
-## Links
+<div align="center">
 
-[kizz.me](https://kizz.me) · [X](https://x.com/kizzClub) · [Telegram](https://t.me/kizz_club)
+*Est. 2026 · Global · Bootstrapped*
+
+</div>
